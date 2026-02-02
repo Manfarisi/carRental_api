@@ -65,20 +65,20 @@ npm run start
 
 🏗️ Architecture Overview
 
-Express handles routing, middleware, and API structure
+- Express handles routing, middleware, and API structure
 
-MongoDB stores user, car, and booking data
+- MongoDB stores user, car, and booking data
 
-JWT secures API endpoints
+- JWT secures API endpoints
 
-Designed to integrate seamlessly with a React frontend
+- Designed to integrate seamlessly with a React frontend
 
 🔗 Frontend Repository
 
 Frontend application is available here:
-carRental_FE
+- https://github.com/Manfarisi/carRental_FE
 
 👨‍💻 Author
 
-Salman Alfarisi
-GitHub: https://github.com/Manfarisi
+- Salman Alfarisi
+- GitHub: https://github.com/Manfarisi
