@@ -76,7 +76,7 @@ npm run start
 🔗 Frontend Repository
 
 Frontend application is available here:
-- https://github.com/Manfarisi/carRental_FE
+- https://github.com/Manfarisi/carRental_rontend
 
 👨‍💻 Author
 
